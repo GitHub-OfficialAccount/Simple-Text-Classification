@@ -12,3 +12,9 @@
 - TF-IDF
 - N-gram (CountVectorizer)
 - GloVe
+
+### Case: Sentiment Analysis (6 sentiments)
+
+### Libraries
+- Pytorch (for modelling)
+- TF/Keras (for some preprocessing)
